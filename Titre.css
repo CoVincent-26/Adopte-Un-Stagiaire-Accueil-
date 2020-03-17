@@ -1,0 +1,10 @@
+.welcometitle {
+    /* border: solid black 1px; */
+    height: 10%;
+    width:100%;
+    text-align: center;
+    line-height: 80px;
+    vertical-align: middle;
+    font-weight: bold;
+    font-size: 45px;
+}

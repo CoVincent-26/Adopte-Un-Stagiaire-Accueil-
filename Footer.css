@@ -1,0 +1,13 @@
+footer {
+    height: 10%;
+    width: 99%;
+    background: linear-gradient(to bottom right, purple, orange);
+    bottom: 1px;
+    position: absolute;
+    text-align: center;
+    color: Whitesmoke;
+    font-weight: bolder;
+    font-size: 50px;
+    line-height: 100px;
+    vertical-align: middle;
+}
